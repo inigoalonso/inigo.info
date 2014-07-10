@@ -1,0 +1,4 @@
+inigo.info
+==========
+
+Personal website
