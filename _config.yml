@@ -1,5 +1,5 @@
 # Set theme
-remote_theme: daviddarnes/alembic
+#remote_theme: daviddarnes/alembic
 
 # File excludes
 exclude:
@@ -20,12 +20,13 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://inigo.info'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'iñigo'
+description: 'info'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+date_format: "%Y %M %D"
 
 # Pagination
 paginate: 5
@@ -44,6 +45,11 @@ navigation_header:
 navigation_footer:
 - title: Back to top
   url: "#top"
+
+# Social links
+social_links:
+- title: Twitter
+  url: https://twitter.com/inigoalonso
 
 # Collections
 collections:
