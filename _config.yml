@@ -47,17 +47,3 @@ navigation_footer:
 - title: Back to top
   url: "#top"
 
-# Social links
-social_links:
-- title: Twitter
-  url: https://twitter.com/inigoalonso
-
-# Collections
-collections:
-  posts:
-    title: Posts
-    output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
