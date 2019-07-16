@@ -47,9 +47,9 @@ navigation_footer:
   url: "#top"
 
 # Social links
-#social_links:
-#- title: Twitter
-#  url: https://twitter.com/inigoalonso
+social_links:
+- title: Twitter
+  url: https://twitter.com/inigoalonso
 
 # Collections
 collections:
