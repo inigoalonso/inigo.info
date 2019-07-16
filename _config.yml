@@ -47,3 +47,12 @@ navigation_footer:
 - title: Back to top
   url: "#top"
 
+plainwhite:
+  name: Iñigo Alonso Fernandez
+  tagline: Engineer, PhD Student
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: inigoalonso
+    github:  inigoalonso
+    linkedIn: en/inigoalonso # format: locale/username
