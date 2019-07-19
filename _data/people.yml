@@ -1,0 +1,15 @@
+- name: "Iñigo Alonso Fernandez"
+  type: "PhD Student"
+  email: "inigo.alonso@chalmers.se"
+  phone: "071234567"
+  description: "Blah, blah, blah"
+  profile_picture: inigoalonso.jpg
+
+- name: "Jakob"
+  type: "PhD Student"
+
+- name: "Ola"
+  type: "Group Leader"
+
+- name: "Massimo"
+  type: "Senior Researcher"
