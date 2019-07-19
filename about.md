@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the experimental homepage of Iñigo Alonso Fernandez, currently a PhD student in the [Systems Engineering Design group](https://www.chalmers.se/en/departments/ims/research/product-development/Pages/systems-engineering-design.aspx) and Chalmers Technical University (Sweden).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+The original homepage is [inigoalonso.com](https://inigoalonso.com)

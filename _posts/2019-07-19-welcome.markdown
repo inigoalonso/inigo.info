@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2019-07-19 14:55:43 +0200
+categories: diary
+---
+
+Hej there! This is the first post of my latest attemp at blogging.
+
+I am currently experimenting with [Jekyll](https://github.com/jekyll/jekyll), in particular so we can use the nice hosting at Github for a signaling screen at the university for the [Systems Engineering Design group](https://www.chalmers.se/en/departments/ims/research/product-development/Pages/systems-engineering-design.aspx).
+
+Let's see if I can keep up blogging regularly!
