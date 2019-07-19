@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Information about Iñigo Alonso Fernández, engineer and PhD student
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://inigo.info" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: inigoalonso
+#twitter_username: inigoalonso
 github_username:  inigoalonso
 instagram_username:  inigoalonso
 
@@ -27,7 +27,7 @@ instagram_username:  inigoalonso
 markdown: kramdown
 #theme: minima
 theme: jekyll-swiss
-theme-color: orange
+theme_color: orange
 plugins:
   - jekyll-feed
 
