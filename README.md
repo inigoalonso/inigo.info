@@ -1,4 +1,4 @@
 inigo.info
 ==========
 
-Personal website
+Personal website at [inigo.info](https://inigo.info)
