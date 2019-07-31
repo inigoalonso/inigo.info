@@ -14,6 +14,7 @@ Complex systems' specifications and design documents define their states and mod
 * **Mode**: the way in which functions are performed. Exist within states. May be exclusive or concurrent. Function execution related to modes.
 * **Condition**: an attribute of the system at a particular point in time. May contribute to the derivation of a system's state, mode or transitions.
 * **Function**: a capability, activity or basic operation of the system.
+
 ## Model diagram
 ![Model diagram](/assets/images/System-State-Function-Mode.png)
 
