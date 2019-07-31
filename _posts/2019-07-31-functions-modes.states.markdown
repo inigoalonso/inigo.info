@@ -21,4 +21,4 @@ A system may be defined to exist in zero or more states. States may consist of z
 ##References
 * [A Practical Approach to State and Mode Definitions for the Specification and Design of Complex Systems, Michael Thomas EDWARDS, September 2003](http://ep.unisa.edu.au/artefact/file/download.php?file=113130&view=23326)
 
-This post was originally written on a previous blog experiment on 2014/04/04 13:34
+*This post was originally written on a previous blog experiment on 2014/04/04 13:34*
